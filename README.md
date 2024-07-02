@@ -1,3 +1,7 @@
+## About
+Dynamic and seasoned IT professional with a solid background in web development, blockchain, and data science. With over two decades of experience in the IT industry, specialize in building and optimizing interactive, user-friendly applications and systems. Proficient in an array of programming languages and tools, including Solidity, TypeScript, React, NodeJS, Python, Java, Rust, Bash and various DevOps technologies.
+
+## Currently
 🔭 I’m currently working on [github.com/andreas-timm](https://github.com/andreas-timm)
 
 ## Chains
