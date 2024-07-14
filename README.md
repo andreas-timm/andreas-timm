@@ -4,9 +4,31 @@ Dynamic and seasoned IT professional with a solid background in web development,
 ## Currently
 🔭 I’m currently working on [github.com/andreas-timm](https://github.com/andreas-timm)
 
+## Announcements (Not Public)
+- [contract-rate](https://github.com/andreas-timm/contract-rate) — Simple direct uin32 rate.
+- [contract-access-control-ext](https://github.com/andreas-timm/contract-access-control-ext)
+- [contract-connect](https://github.com/andreas-timm/contract-connect)
+- [contract-history](https://github.com/andreas-timm/contract-history)
+- [contract-namespaces](https://github.com/andreas-timm/contract-namespaces)
+- [contract-tail](https://github.com/andreas-timm/contract-tail)
+- [contract-whitelist](https://github.com/andreas-timm/contract-whitelist)
+
+```mermaid
+graph TD;
+namespaces --> connect;
+namespaces --> access-control-ext;
+access-control-ext --> history;
+tail --> history;
+rate;
+connect;
+template;
+whitelist;
+```
+
 ## Chains
 ### Contracts
 - [contract-template](https://github.com/andreas-timm/contract-template) — Contract (EVM) development and maintain system template.
+- [solidity-preprocessor](https://github.com/andreas-timm/solidity-preprocessor) — Solidity preprocessor
 
 ### Github Organzations:
 #### 📁 [Tool chains](https://github.com/tool-chains)
