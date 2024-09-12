@@ -13,18 +13,6 @@ Dynamic and seasoned IT professional with a solid background in web development,
 - [contract-tail](https://github.com/andreas-timm/contract-tail)
 - [contract-whitelist](https://github.com/andreas-timm/contract-whitelist)
 
-```mermaid
-graph TD;
-namespaces --> connect;
-namespaces --> access-control-ext;
-access-control-ext --> history;
-tail --> history;
-rate;
-connect;
-template;
-whitelist;
-```
-
 ## Chains
 ### Contracts
 - [contract-template](https://github.com/andreas-timm/contract-template) — Contract (EVM) development and maintain system template.
