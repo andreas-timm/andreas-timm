@@ -3,7 +3,12 @@ Dynamic and seasoned IT professional with a solid background in web development,
 
 ## Meetings and workshops
 
-https://calendly.com/andreas_timm
+- [All events](https://calendly.com/andreas_timm) in September, 2024<br/><br/>
+- [IT Service and advice on-site in Berlin](https://calendly.com/andreas_timm/on-seite-berlin)
+- [Introduction](https://calendly.com/andreas_timm/introduction) / [Introduction Express](https://calendly.com/andreas_timm/introduction-express)
+- [Introduction Workshop](https://calendly.com/andreas_timm/introduction-workshop)
+
+ℹ️ A focused conversation to discuss or hands-on session on your specific needs in web development, blockchain, or data science. We’ll identify challenges and explore potential solutions to get you started.
 
 ## Currently
 🔭 I’m currently working on [github.com/andreas-timm](https://github.com/andreas-timm)
