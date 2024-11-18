@@ -35,3 +35,8 @@ Dynamic and seasoned IT professional with a solid background in web development,
 
 ## Utils ‣ Notification
 - [tm](https://github.com/andreas-timm/tm) — Simple readable utility on bash that sends messages like a bot in telegram.
+
+---
+
+<a href="https://codeium.com/profile/andreas-timm" title="Codeium Andreas Timm Profile">
+<img src="https://codeium.com/profile/andreas-timm/card.png" width="400" alt="Codeium Profile Card" /></a>
