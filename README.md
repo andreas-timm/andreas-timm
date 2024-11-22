@@ -14,10 +14,6 @@ Leveraging my background in web development, blockchain, and data science, I spe
 [![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-%23E7E7E7FF.svg?style=for-the-badge&logo=react&logoColor=%23A7A7A7)](https://reactjs.org/)
 
-
-## Meetings and workshops
-ℹ️ A focused conversation to discuss or hands-on session on your specific needs in web development, blockchain, or data science. We’ll identify challenges and explore potential solutions to get you started.
-
 ## Currently
 🔭 I’m currently working on [github.com/andreas-timm](https://github.com/andreas-timm)
 
