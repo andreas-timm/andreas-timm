@@ -1,5 +1,5 @@
 ## About
-Dynamic and seasoned IT professional with a solid background in web development, blockchain, and data science. With over two decades of experience in the IT industry, specialize in building and optimizing interactive, user-friendly applications and systems. Proficient in an array of programming languages and tools, including:
+Leveraging my background in web development, blockchain, and data science, I specialize in building and optimizing interactive, user-friendly applications and systems. Proficient in an array of programming languages and tools, including:
 
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
