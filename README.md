@@ -1,5 +1,5 @@
 ## About
-Designing, developing, and optimizing complex, user-centric applications and scalable systems. Proficient across a wide tech stack:
+Designing, developing, and optimizing complex applications and scalable systems. Experienced in research methodologies and analytics, applying data-driven insights. Driven by curiosity and a passion for impactful technology have led to proficiency across a wide tech stack:
 
 [![Python](https://img.shields.io/badge/-%233776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 <sup>Python</sup>
